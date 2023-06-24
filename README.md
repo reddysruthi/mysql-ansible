@@ -1,3 +1,4 @@
+![image](https://github.com/reddysruthi/mysql-ansible/assets/116589336/a8998eb9-6634-4139-b499-2b8c10316ecb)
 
 GITLAB-AMI
 
